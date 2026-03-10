@@ -12,7 +12,6 @@ Duration : 4 Weeks
 Mentor : Neela Santhosh
 
 Description about the Task :
-Description of the Program (≈500 Words)
 
 This program demonstrates the implementation of a simple deep learning model for image classification using PyTorch, along with supporting libraries such as Torchvision and Matplotlib. The main objective of the program is to train a neural network to recognize handwritten digits from the MNIST Dataset and visualize the training performance using a graph.
 
