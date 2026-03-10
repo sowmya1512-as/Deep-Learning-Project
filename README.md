@@ -31,3 +31,4 @@ The model is then trained for three epochs using a training loop. During each ep
 Finally, the program visualizes the training progress by plotting the loss values using Matplotlib. The graph shows how the training loss decreases across epochs, indicating that the model is learning and improving its predictions. This visualization helps in understanding the performance of the model during the training process.
 
 output :
+<img width="1445" height="863" alt="Image" src="https://github.com/user-attachments/assets/5516266a-2229-4eb2-9fb3-4165cf886e3d" />
